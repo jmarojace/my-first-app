@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="p-8">
       <h1 className="mb-4 text-3xl font-bold">
-        Welcome to My Personal Site
+        Welcome to Joshua Mari A. Aro&apos;s Site
       </h1>
 
       <p className="mb-6">

@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Personal Site",
+  title: "Joshua Mari A. Aro",
   description: "A personal website built with Next.js.",
 };
 

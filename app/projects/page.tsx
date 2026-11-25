@@ -2,15 +2,15 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Projects | John Patrick",
+  title: "Projects | Joshua Mari A. Aro",
 };
 
 const projects = [
   {
     id: 1,
-    name: "AquaRoute",
+    name: "Mini Store Inventory",
     description:
-      "A water container delivery and refill management system.",
+      "A mobile app for a small store to add, update, and delete products and track stock levels.",
   },
   {
     id: 2,
